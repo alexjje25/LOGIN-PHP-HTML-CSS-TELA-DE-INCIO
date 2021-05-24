@@ -3,6 +3,8 @@ Login com cadastro de usuário e validação dos dados.
 
 CONEXÃO COM O BANCO DE DADOS
 
+CADASTRO E EXCLUSAO DE USUARIO.
+
 PHP 
 
 HTML E CSS .
